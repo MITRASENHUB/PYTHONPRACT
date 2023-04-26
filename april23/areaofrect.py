@@ -1,0 +1,7 @@
+print("My Name Is Mit")
+print("Hello Computer")
+print("I hope you are doing well and look forward to work together for mutual concerns and  benefit")
+print("Let's solve a question here as below -")
+length=int(input("Please enter length"))
+breadth=int(input("Please enter breadth"))
+print("area",length*breadth)
